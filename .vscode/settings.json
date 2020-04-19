@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.format.settings.profile": "GoogleStyle",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+    "editor.cursorStyle": "line",
+    "editor.wordWrap": "on",
+    "editor.rulers": [{"column": 100, "color": "white"}]
+}
