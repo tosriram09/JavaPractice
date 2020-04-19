@@ -1,1 +1,1 @@
-This is a push from Linux
+Java Learnings from "Modern Java"
